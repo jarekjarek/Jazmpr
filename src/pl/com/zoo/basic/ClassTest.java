@@ -29,7 +29,7 @@ public class ClassTest {
 	}
 	@Test
 	public void getNameTest() {
-//		System.out.println("getname");
+
 		assertEquals(name, gromada.getName());
 	}
 }

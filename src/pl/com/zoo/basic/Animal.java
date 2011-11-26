@@ -6,9 +6,8 @@ public class Animal implements Serializable{
 
 	
 	private static final long serialVersionUID = 1L;
-	private String name; //imie  xxxxxxxxxxxxx
-	private String species; //gatunek
-	//Date birthYear;
+	private String name; 
+	private String species; 
 	private double weight;
 
 	public Animal(String name, String species, double weight){

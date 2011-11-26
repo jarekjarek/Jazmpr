@@ -9,9 +9,9 @@ public class Zoo {
 		System.out.println("Witaj w ZOO!\n\n\n");
 
 		ZooKeeper keeper = new ZooKeeper();
-		// keeper.readAnimalsFromFile();
+		
 		keeper.makeAnimalsRegister();
-		//keeper.printAnimals();
+		
 		
 		Animal orf = new Animal("Orf", "Ogr", 0.3);
 		Class tak = new Class("ogr");

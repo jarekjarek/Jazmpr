@@ -2,7 +2,7 @@ package pl.com.zoo.basic;
 
 import java.io.Serializable;
 
-//gromada
+
 public class Class implements Serializable{
 
 
